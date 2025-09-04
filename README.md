@@ -3,7 +3,7 @@
 ## I am an informatics engineering student!!
 
 - 🌱 I'm currently trying to learn everything 🤣
-- 🥅 2024 Goals: learn about some frontend frameworks
+- 🥅 2025 Goals: learn about some Data Analys Tools
 - ⚡ Fun fact: I like playing games and digging up information about digital technology
 
 ### Connect with me:
