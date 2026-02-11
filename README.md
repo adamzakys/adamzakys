@@ -1,32 +1,43 @@
-# Hi there, I'm Zaky👋 
+# Muhammad Adam Zaky Jiddyansah 👋
 
-## I am an informatics engineering student!!
+## Informatics Engineering Student | Linux Automation & System Maintenance
 
-- 🌱 I'm currently trying to learn everything 🤣
-- 🥅 2025 Goals: learn about some Data Analys Tools
-- ⚡ Fun fact: I like playing games and digging up information about digital technology
+I am a passionate Informatics Engineering student focused on system administration, digital technology, and automation. I specialize in building TUI-based tools and exploring Linux ecosystems.
 
-### Connect with me:
+- 🔭 **Current Project:** Developing [Arch Maintenance Hub](https://github.com/adamzakys/arch-cleaner), a professional TUI dashboard for Arch-based systems.
+- 🌱 **Learning:** Deep diving into Advanced Bash Scripting, Linux Kernel Optimization, and Data Analysis tools.
+- 💻 **OS & Environment:** Daily driving **CachyOS** with **Hyprland** WM.
+- ⚡ **Fun Fact:** I enjoy modding my 2013 Honda CB150R and digging up insights about cosmic consciousness.
 
-[![website](./img/globe-light.svg)](https://adamzakys.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://adamzakys.github.io/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/adamzaky/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/adamzaky/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/adamzaky_j/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/adamzaky_j/#gh-dark-mode-only)
+### 🌐 Connect with Me:
 
-### Some language and Tools:
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/lucasfogliarini/lucasfogliarini/main/icons/globe.svg" />](https://adamzakys.github.io/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/lucasfogliarini/lucasfogliarini/main/icons/linkedin.svg" />](https://www.linkedin.com/in/adamzaky/)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/lucasfogliarini/lucasfogliarini/main/icons/instagram.svg" />](https://www.instagram.com/adamzaky_j/)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<br />
+<br />
+
+### 🛠 Languages and Tools:
+
+**System & Scripting:**
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple-terminal/apple-terminal-original.svg" style="padding-right:10px;" />
+
+**Web & Data:**
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+
+---
+
+### 📊 GitHub Stats
+![Zaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamzakys&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamzakys&layout=compact&theme=transparent)
