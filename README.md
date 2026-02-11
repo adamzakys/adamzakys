@@ -1,6 +1,6 @@
 # Muhammad Adam Zaky Jiddyansah 👋
 
-## Informatics Engineering Student | Linux Enthusiast | Tech Hobbyist
+## Linux Enthusiast | Tech Hobbyist
 
 Just a student who enjoys exploring the digital world. I spend most of my time tinkering with my system, learning new stuff, or just playing games. I'm into automation because I'm basically lazy and want my computer to do the work for me.
 
