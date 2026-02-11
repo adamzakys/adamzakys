@@ -5,9 +5,9 @@
 Just a student who enjoys exploring the digital world. I spend most of my time tinkering with my system, learning new stuff, or just playing games. I'm into automation because I'm basically lazy and want my computer to do the work for me.
 
 - 💻 **Daily Driver:** Currently hopping on **CachyOS** with **Hyprland** WM. Loving the smoothness!
-- ⚡ **Fun Fact:** Aside from coding, I like modding my 2013 Honda CB150R and playing "The Spike".
-- 🌱 **Currently Learning:** Just trying to get better at Bash and exploring some Data Analysis tools.
-- 🥅 **2025 Goals:** Stay curious and keep digging into tech info.
+- ⚡ **Fun Fact:** Aside from coding, I like modding Caferacer.
+- 🌱 **Currently Learning:** Just trying to get better at Bash and exploring some Data Analysis tools and Computer Networking skiils.
+- 🥅 **2026 Goals:** Stay curious and keep digging into tech info.
 
 ### 🌐 Connect with me:
 
