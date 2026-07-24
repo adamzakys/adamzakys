@@ -11,37 +11,40 @@ Just a student who enjoys exploring the digital world. I spend most of my time t
 
 ### 🌐 Connect with me:
 
-[![Website](https://img.shields.io/badge/Website-adamzakys.github.io-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://adamzakys.github.io/)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adamzaky-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamzaky/)
-&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-adamzaky_j-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adamzaky_j/)
+[![Website](https://img.shields.io/badge/Website-adamzakys.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adamzakys.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adamzaky-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamzaky/)
+[![Instagram](https://img.shields.io/badge/Instagram-adamzaky_j-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adamzaky_j/)
 
 <br />
 
 ### 🛠 Languages and Tools:
 
 **Stuff I Use:**
-![Terminal](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
-![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="32" height="32" />
+</div>
 
 **Web & Data:**
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-![Deno](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/deno/deno-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="32" height="32" />
+</div>
 
-<br />
 <br />
 
 ---
 
 ### 📊 My Stats
 
-![Zaky's Stats](https://github-readme-stats.vercel.app/api?username=adamzakys&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamzakys&layout=compact&theme=transparent&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adamzakys&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zaky's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzakys&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="48%" />
+</div>
 
 *© 2026 Muhammad Adam Zaky Jiddyansah.*
