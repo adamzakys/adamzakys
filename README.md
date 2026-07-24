@@ -6,36 +6,33 @@ Just a student who enjoys exploring the digital world. I spend most of my time t
 
 - 💻 **Daily Driver:** Currently hopping on **CachyOS** with **Hyprland** WM. Loving the smoothness!
 - ⚡ **Fun Fact:** Aside from coding, I like modding Caferacer.
-- 🌱 **Currently Learning:** Just trying to get better at Bash and exploring some Data Analysis tools and Computer Networking skiils.
+- 🌱 **Currently Learning:** Just trying to get better at Bash and exploring some Data Analysis tools and Computer Networking skills.
 - 🥅 **2026 Goals:** Stay curious and keep digging into tech info.
 
 ### 🌐 Connect with me:
 
-[![Website](./img/globe-light.svg#gh-light-mode-only)](https://adamzakys.github.io/)
-[![Website](./img/globe-dark.svg#gh-dark-mode-only)](https://adamzakys.github.io/)
+[![Website](https://img.shields.io/badge/Website-adamzakys.github.io-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://adamzakys.github.io/)
 &nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/adamzaky/)
-[![LinkedIn](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/adamzaky/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adamzaky-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamzaky/)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg#gh-light-mode-only)](https://www.instagram.com/adamzaky_j/)
-[![Instagram](./img/instagram-dark.svg#gh-dark-mode-only)](https://www.instagram.com/adamzaky_j/)
+[![Instagram](https://img.shields.io/badge/Instagram-adamzaky_j-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adamzaky_j/)
 
 <br />
 
 ### 🛠 Languages and Tools:
 
 **Stuff I Use:**
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />
+![Terminal](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
 
 **Web & Data:**
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Deno](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/deno/deno-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
 
 <br />
 <br />
@@ -43,7 +40,8 @@ Just a student who enjoys exploring the digital world. I spend most of my time t
 ---
 
 ### 📊 My Stats
-![Zaky's Stats](https://github-readme-stats.vercel.app/api?username=adamzakys&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamzakys&layout=compact&theme=transparent)
+
+![Zaky's Stats](https://github-readme-stats.vercel.app/api?username=adamzakys&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamzakys&layout=compact&theme=transparent&hide_border=true)
 
 *© 2026 Muhammad Adam Zaky Jiddyansah.*
