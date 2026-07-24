@@ -40,11 +40,19 @@ Just a student who enjoys exploring the digital world. I spend most of my time t
 
 ---
 
-### 📊 My Stats
+### 📊 My GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamzakys&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Zaky's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzakys&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="48%" />
+  <!-- GitHub Streak Stats (Keren & Stabil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamzakys&theme=dark&hide_border=true&background=0d1117&ring=e4e2e2&currStreakLabel=e4e2e2" alt="Streak Stats" width="48%" />
+  
+  <!-- Top Languages Card (Alternatif yang lebih detail) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzakys&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" width="48%" />
+</div>
+
+<div align="center">
+  <!-- Tambahan: Activity Graph (Opsional, jika ingin melihat grafik kontribusi) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamzakys&theme=react-dark&hide_border=true&bg_color=0d1117&color=e4e2e2&line=e4e2e2&point=e4e2e2&area=true&area_color=161b22" alt="Activity Graph" width="96%" />
 </div>
 
 *© 2026 Muhammad Adam Zaky Jiddyansah.*
